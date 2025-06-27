@@ -1,7 +1,9 @@
+![IDN45](https://socialify.git.ci/decryptable/IDN45/image?description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&logo=data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520fill%253D%2522%2523fff%2522%2520version%253D%25221.1%2522%2520id%253D%2522Layer_1%2522%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520xmlns%253Axlink%253D%2522http%253A%252F%252Fwww.w3.org%252F1999%252Fxlink%2522%2520viewBox%253D%25220%25200%252024%252024%2522%2520xml%253Aspace%253D%2522preserve%2522%253E%253Cg%2520id%253D%2522SVGRepo_bgCarrier%2522%2520stroke-width%253D%25220%2522%252F%253E%253Cg%2520id%253D%2522SVGRepo_tracerCarrier%2522%2520stroke-linecap%253D%2522round%2522%2520stroke-linejoin%253D%2522round%2522%252F%253E%253Cg%2520id%253D%2522SVGRepo_iconCarrier%2522%253E%253Cpath%2520d%253D%2522M18%252C8V6h1V2h-2v2h-1v4h-5V6h1V2h-2v2H9v4H2v2h6v1H7v3H2v2h4v2H5v4h2v-1v-1h1v-4h5v1v1h-1v4h2v-2h1v-4h7v-2h-6v-1h1v-3h5V8%2520H18z%2520M15%252C11h-1v3H9v-1h1v-3h5V11z%2522%252F%253E%253C%252Fg%253E%253C%252Fsvg%253E&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Dark)
+
 # IDN45
 
-[![Build & Release IDN45](https://github.com/decryptable/IDN45/actions/workflows/build.yml/badge.svg)](https://github.com/decryptable/IDN45/actions/workflows/build.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build & Release IDN45](https://github.com/decryptable/IDN45/actions/workflows/build.yml/badge.svg)](https://github.com/decryptable/IDN45/actions/workflows/build.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 **IDN45** is an educational implementation of a modern cryptographic hash function built in Rust.
 
