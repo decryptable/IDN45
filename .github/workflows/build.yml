@@ -28,7 +28,7 @@ jobs:
           - os: windows-latest
             target: x86_64-pc-windows-msvc
             binary_name: idn45.exe # Windows executables have a .exe extension
-            artifact_name: idn45-rust-windows-amd64
+            artifact_name: idn45-rust-windows-amd64.exe
 
     steps:
       - name: Checkout repository
